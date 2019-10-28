@@ -1,0 +1,27 @@
+{
+  "name": "nodetodo",
+  "version": "1.0.0",
+  "description": "node Todo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meggieveggie/NodeTodo.git"
+  },
+  "author": "Megan Venter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meggieveggie/NodeTodo/issues"
+  },
+  "homepage": "https://github.com/meggieveggie/NodeTodo#readme",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.7",
+    "nodemon": "^1.19.4"
+  }
+}
